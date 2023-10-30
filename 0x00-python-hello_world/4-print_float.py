@@ -1,4 +1,3 @@
 #!/usr/bin/python3
-string = "Print float"
-print(str + str + str)
-print(str[:3])
+number = 3.14159
+print("Float:{:.2f}".format(number))
