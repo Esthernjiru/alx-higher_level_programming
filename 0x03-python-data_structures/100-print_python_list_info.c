@@ -3,8 +3,8 @@
 #include <Python.h>
 
 /**
- * print_python_list_info - write a function that prints some basic
- * info about Python lists
+ * print_python_list_info - This is a function that prints some basic
+ *							info about Python lists
  * @p: python list
  */
 
